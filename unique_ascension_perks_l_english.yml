@@ -2315,7 +2315,7 @@
  #AP EVEN MORE IMPORTANT INFOS
  perk_no_branch_office: "\n\n§RUsing any mod which changes the game rules files for branch offices such as §YZenith of Fallen Empire§! or §YAncient Cache of Technologies: Override§! will end up with that feature not working properly.§!"
  ap_no_spoil: "\n\n§MI have decided to don't say too much thing about that Ascension Perk, leaving you the surprise to find out by yourself."
- ap_no_trade_policy: "\n\n§RUsing any mod which changes the trade policies files will end up with that feature not working properly."
+ ap_no_trade_policy: "\n\n§RUsing any mod that changes the trade policy files will likely break this feature."
  
  
  
