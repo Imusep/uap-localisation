@@ -15,7 +15,7 @@ Notable changes I've made for various reasons (Such as: consistency, pre-existin
   
  "Void Expeditions": I changed a few of the events in deep space quite a bit to add some flavor (most notably: pirate event, hostile Fleet event). It doesn't really change that much but you might have had some extended headcanon for them already so I figured it'll be better to include it on this list, just in case.
  
-        -This is one of the changes that probably doesn't have a big impact on the experience and idea behind the perk and only adds some flavor to it. I could still   change it back if you'd want me to.
+        -This is one of the changes that probably doesn't have a big impact on the experience and idea behind the perk and only adds some flavor to it. I could still change it back if you'd want me to.
  
  
  
@@ -25,11 +25,11 @@ Notable changes I've made for various reasons (Such as: consistency, pre-existin
 
 "Center of the Galaxy": I pretty much just made it more clear that you are just artificially enlarging a planet to a ridiculous size here and don't aspire to somehow become the actual Center of the Galaxy as in "Galactic Core". Also edited the AP desc a bit to change the reasoning behind it, but thats mostly it.
 
-        -This is one of the changes that probably doesn't have a big impact on the experience and idea behind the perk and only adds some flavor to it. I could still   change it back if you'd want me to.
+        -This is one of the changes that probably doesn't have a big impact on the experience and idea behind the perk and only adds some flavor to it. I could still change it back if you'd want me to.
 
 "Genius Pregnancy": Genius Pregnancy is now named "Reproductive Mastery" and the AP desc is a bit different. That is all there is to it, and it is mostly just because not all Stellaris species reproduce in the same way but I figured changing the AP name is major enough to include it here.
 
-        -This is one of the changes that probably doesn't have a big impact on the experience and idea behind the perk and really only adds some in-game consistency to it.      I could still change it back if you'd want me to.
+        -This is one of the changes that probably doesn't have a big impact on the experience and idea behind the perk and really only adds some in-game consistency to it. I could still change it back if you'd want me to.
 
 
 "Private Galactic Market": I mostly just added some flavor and in-game consistency changes but it might be too much for your liking. I also edited the tone of some of the interactions a bit (for example, several traders will refer to the player as the "founder" of this GM branch).
