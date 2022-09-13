@@ -3624,7 +3624,7 @@
  expedition.ship.destroyed.4: "§R4§! Expedition Ships Lost."
  expedition.ship.destroyed.8: "§R8§! Expedition Ships Lost."
  
- #DS successfull expedition outcome modifiers
+ #DS successful expedition outcome modifiers
  expedition_alloys_loot: "§MExpedition:§! Debris Field"
  expedition_alloys_loot_desc: ""
  expedition_energy_loot: "§MExpedition:§! Energy Deposits"
@@ -4001,7 +4001,7 @@
  
  #Ascended General morale malus trait
  leader_trait_diplomat: "Ascended Diplomat"
- leader_trait_diplomat_desc: "This general has decided to expand their engagement strategies beyond simply improving combative capabilities after their ascensions. They decided to attempt to resolve invasions diplomatically as a result, which while rarely actually successfull, tend to demoralize biological troops that so often face grievous losses during these avoidable engagements."
+ leader_trait_diplomat_desc: "This general has decided to expand their engagement strategies beyond simply improving combative capabilities after their ascensions. They decided to attempt to resolve invasions diplomatically as a result, which while rarely actually successful, tend to demoralize biological troops that so often face grievous losses during these avoidable engagements."
  
  #Ascended Scientist survey speed trait 
  leader_trait_fast_explorer: "Ascended Sensor Recalibrator"
