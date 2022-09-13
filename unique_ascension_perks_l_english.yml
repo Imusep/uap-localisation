@@ -2203,7 +2203,7 @@
  
  #Legendary Forge AP name and desc
  ap_legendary_forge: "Legendary Forge"
- ap_legendary_forge_desc: "Legends say that the place where the strongest and durable materials could be forged is somewhere near the heart of a $pc_molten$. We have long looked down on these legends, yet our scientists have now confirmed that some $pc_molten$s do indeed posess extraordinary features that could be used to create forges of unparalleled efficiency. The operation to make one of these planets habitable enough for workers requires the help of $sr_living_metal$, but we should be able to aquire that one way or another. We will now truly see if these legends are only a childish story or simple reality."
+ ap_legendary_forge_desc: "Legends say that the place where the strongest and most durable materials could be forged is somewhere near the heart of a $pc_molten$. We have long looked down on these legends, yet our scientists have now confirmed that some $pc_molten$s do indeed posess extraordinary features that could be used to create forges of unparalleled efficiency. The operation to make one of these planets habitable enough for workers requires the help of $sr_living_metal$, but we should be able to aquire that one way or another. We will now truly see if these legends are only a childish story or simple reality."
  ap_legendary_forge_req_1: "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_alloys_2$§! Technology."
  ap_legendary_forge_req_2: "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_mine_living_metal$§! Technology."
  ap_legendary_forge_req_3: "$TRIGGER_FAIL$Requires the £society£ §Y$tech_volcano$§! Technology."
