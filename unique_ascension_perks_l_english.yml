@@ -2468,7 +2468,7 @@
  
  #Private Galactic Market AP name and desc
  ap_space_merchant: "Private Galactic Market"
- ap_space_merchant_desc: "In order to not succumb to the inflation of prices that sometimes happens on the current public Galactic Market, we have gathered space merchants from every civilizations to form a new "private" branch of the Galactic Market in our territory. Access to it is heavily restricted for other empires, and only we will be able to benefit from the branches special offers. We may have to properly establish some of the more advanced branches first, but once the market is fully established, we will be sure to prosper thanks to it."
+ ap_space_merchant_desc: "In order to not succumb to the inflation of prices that sometimes happens on the current public Galactic Market, we have gathered space merchants from every civilization to form a new "private" branch of the Galactic Market in our territory. Access to it is heavily restricted for other empires, and only we will be able to benefit from the branches special offers. We may have to properly establish some of the more advanced branches first, but once the market is fully established, we will be sure to prosper thanks to it."
  ap_space_merchant_req_1: "$TRIGGER_FAIL$Has finished the §YProsperity§! Tradition."
  ap_space_merchant_tooltip: "\n§HUnlocks Feature:§! Private Galactic Market\nGet access to special trades with your PGM Space Merchants every two years in order to exchange $energy$ £energy£ for any kind of resources at a fixed prices which challenge those of the public galactic market. We will get access to more specialized branches of the market by researching further technologies, allowing you to buy slaves, robots, armies and even ships."
 
