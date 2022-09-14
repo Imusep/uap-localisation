@@ -1,7 +1,7 @@
 # uap-localisation
 This is a revised version of the localisation from the "Unique Ascension Perks" Stellaris mod. 
 
-Notable changes I've made for various reasons (Such as: consistency, pre-existing established in-game content or logic, flavor changes and in one case because described effects did not realistically match with the actual results):
+Notable changes I've made for various reasons (Such as: consistency, pre-existing established in-game content or logic, flavor changes and sometimes because the described effects did not realistically match with the actual results):
 
 [I sorted it from least notably rewritten to almost completely overhauled (excludes those I mostly just spellchecked without really changing anything)] 
 
