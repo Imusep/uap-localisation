@@ -4,7 +4,7 @@
  AGGRESSIVE_HIVEMIND: "$ap_aggressive_hivemind$"
  AGGRESSIVE_HIVEMIND_DESC: "$ap_aggressive_hivemind_desc$\n\n$ap_aggressive_hivemind_tooltip$"
  AGGRESSIVE_HIVEMIND_UPGRADE: "Evolved Swarm"
- AGGRESSIVE_HIVEMIND_UPGRADE_DESC: "The Hivemind is working on a way to immediately upgrade the stolen ships from our enemies to the latest standarts. With this we will not have to upgrade any new stolen ships manually anymore."
+ AGGRESSIVE_HIVEMIND_UPGRADE_DESC: "The Hivemind is working on a way to immediately upgrade the stolen ships from our enemies to the latest standards. With this we will not have to upgrade any new stolen ships manually anymore."
  
  #Transcendant Learning Leader features
  ALLOW_LEADER_MIN_LVL_2: "§HUnlocks Feature:§! Leader Minimum Level: §Y2§!"
@@ -324,7 +324,7 @@
  
  #Ship recycling names and descs
  RECYCLE_PERFORM_SHIPS: "Ship Upgrade Operations"
- RECYCLE_PERFORM_SHIPS_DESC: "Our engineers are working on a project to immediately upgrade the recycled ships from to the latest standarts. With this we will not have to upgrade any new recycled ships manually anymore."
+ RECYCLE_PERFORM_SHIPS_DESC: "Our engineers are working on a project to immediately upgrade the recycled ships from to the latest standards. With this we will not have to upgrade any new recycled ships manually anymore."
  RECYCLE_RECOVER_SHIPS: "Ship Recovery Operations"
  RECYCLE_RECOVER_SHIPS_DESC: "Our engineers might be able to program some recycling drones, allowing them to retrieve a decent amount of parts from our destroyed ships to repair them right away. Finishing that §YSpecial Project§! would give any of our ships §Y35% Chances§! of being repaired and operational at our capital after destruction."
 
@@ -5138,7 +5138,7 @@
 
  #Extra consumer goods policy
  trade_policy_adv_conversion_consumer_goods_name: "§YCivilian Expenses§! £consumer_goods£"
- trade_policy_adv_conversion_consumer_goods_name_desc: "The additional money coming from our improved trade strategies will be used to provide for our citizens consumer needs. By granting monthly consumer good budgets to our citizens according to their living standarts and transfering all expenses within these budgets to the empire, our civilians will never have to pay for the common luxuries again.\n\n§EEach collected £trade_value£ §YTrade Value§! earns us £energy£ §Y0.15§! and £consumer_goods£ §Y0.80§!§!"
+ trade_policy_adv_conversion_consumer_goods_name_desc: "The additional money coming from our improved trade strategies will be used to provide for our citizens consumer needs. By granting monthly consumer good budgets to our citizens according to their living standards and transfering all expenses within these budgets to the empire, our civilians will never have to pay for the common luxuries again.\n\n§EEach collected £trade_value£ §YTrade Value§! earns us £energy£ §Y0.15§! and £consumer_goods£ §Y0.80§!§!"
  
  #Extra energy policy
  trade_policy_adv_conversion_energy_name: "§YStagnant Mastery§! £energy£"
@@ -5146,7 +5146,7 @@
 
  #Extra food policy
  trade_policy_adv_conversion_food_name: "§YAgriculture Projects§! £food£"
- trade_policy_adv_conversion_food_name_desc: "The additional money coming from our improved trade strategies will be used to finance high-quality agricultural equipment and universal efficiency and fairness standarts for our farmers while additionally investing into independent farming projects to ensure maximum food production.\n\n§EEach collected £trade_value£ §YTrade Value§! earns us £energy£ §Y0.25§! and £food£ §Y1.25§!§!"
+ trade_policy_adv_conversion_food_name_desc: "The additional money coming from our improved trade strategies will be used to finance high-quality agricultural equipment and universal efficiency and fairness standards for our farmers while additionally investing into independent farming projects to ensure maximum food production.\n\n§EEach collected £trade_value£ §YTrade Value§! earns us £energy£ §Y0.25§! and £food£ §Y1.25§!§!"
  
  #Extra minerals policy
  trade_policy_adv_conversion_minerals_name: "§YMineral Purity Standarts§! £minerals£"
@@ -5180,7 +5180,7 @@
  trait_ruler_influencer_desc: "This leader has apparently had a revelation concerning our governments ethical ideals during their mental ascensions and fervently defends them against all opposition whenever challenged. Surprisingly, they still greatly appreciate criticism and are extraordinarily willing to engage in constructive debates, seizing any opportunity to start a public discussion, where they -while not always "victorious"- have always been able to reasonably defend their primary points, which reinforces the populaces beliefs in our governmental ethics."
  
  trait_ruler_leader_of_leaders: "Ascended Recruiter"
- trait_ruler_leader_of_leaders_desc: "This leader has had some sort of revelation during their mental ascensions which has let them to insist on broadened recruitment standarts and drastically expanded leader qualification spectrums to as they reason "optimize situational leader selection pools"."
+ trait_ruler_leader_of_leaders_desc: "This leader has had some sort of revelation during their mental ascensions which has let them to insist on broadened recruitment standards and drastically expanded leader qualification spectrums to as they reason "optimize situational leader selection pools"."
  
  trait_ruler_negotiator: "Ascended Negotiator"
  trait_ruler_negotiator_desc: "This leader has has developed a mental method during their mental ascensions that allows them to mentally cross-reference the demands, ideals and likings of parties in exchanges such as negotiations or debates at all times, which allows them to interact and cooperate with our empires factions and politicians in an universally highly appreciated fashion."
