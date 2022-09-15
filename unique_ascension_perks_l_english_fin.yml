@@ -421,7 +421,7 @@
  UniqueAscensionPerksEvents.1002.Tiyanki: "$domesticated_tiyanki$\n\n$domesticated_tiyanki_tooltip_1$ $domesticated_tiyanki_tooltip_2$"
 
  #NOT DOMESTI Leader copying desc and names
- UniqueAscensionPerksEvents.101.Desc: "We have completed the special project allowing us to clone and NeuroCopy™ our leaders, which will allow us to simply reuse leaders that have already proven themselves instead of having to rely on new recruits."
+ UniqueAscensionPerksEvents.101.Desc: "We have completed the special project allowing us to clone and NeuroCopy our leaders, which will allow us to simply reuse leaders that have already proven themselves instead of having to rely on new recruits."
  UniqueAscensionPerksEvents.101.Name: "No More Surprises"
 
  #Space Domestication Cooldown over desc and protocol descs
@@ -435,15 +435,15 @@
  #MAIN SPACE DOMESTICATION AP ENDS HERE
 
  #Leader copy selection screen
- UniqueAscensionPerksEvents.103.Desc: "Please select which leader we want to clone and NeuroCopy™."
+ UniqueAscensionPerksEvents.103.Desc: "Please select which leader we want to clone and NeuroCopy."
  UniqueAscensionPerksEvents.103.Name: "Leader Cloning Selection"
 
  #Leader copy count selection screen
- UniqueAscensionPerksEvents.104.Desc: "You have selected the leader named §G[Root.GetName]§!. Please select how many clones with a NeuroCopy™ should be created."
+ UniqueAscensionPerksEvents.104.Desc: "You have selected the leader named §G[Root.GetName]§!. Please select how many clones with a NeuroCopy should be created."
  UniqueAscensionPerksEvents.104.Name: "Cloning a Leader"
 
  #Leader copy success screen
- UniqueAscensionPerksEvents.105.Desc: "We have cloned and NeuroCopyed™ our leader §G[Root.GetName]§!. They should be able to serve us just as well as the original, if we can even still determine which one of them it was."
+ UniqueAscensionPerksEvents.105.Desc: "We have cloned and NeuroCopyed our leader §G[Root.GetName]§!. They should be able to serve us just as well as the original, if we can even still determine which one of them it was."
  UniqueAscensionPerksEvents.105.Name: "Leader Cloned"
 
  #LEVIATHAN MASTER MAIN
@@ -1691,7 +1691,7 @@
  UniqueAscensionPerksMenuEvents.119.Desc: "This Ascension Perk will grant access to a new planetary decision which can remove red and sometimes bad yellow planet modifiers and replace them with green planet modifiers. Note that special event planet modifiers won't be removed since that would break the game. A new feature will also be available, allowing every owned planet that can support friendly nature to generate new rare deposits to make them more valuable."
 
  #Robotic Assemblers menudesc
- UniqueAscensionP erksMenuEvents.120.Desc: "This Ascension Perk will grant access to a new planetary decision which allows the construction of robot or mechanical pops in the building construction queue, allowing you to rapidly expand the popoulation of your empire. You also get access to a new building which can create its own pop assembly queue by increasing the pop assembly speed of the planet as well."
+ UniqueAscensionPerksMenuEvents.120.Desc: "This Ascension Perk will grant access to a new planetary decision which allows the construction of robot or mechanical pops in the building construction queue, allowing you to rapidly expand the popoulation of your empire. You also get access to a new building which can create its own pop assembly queue by increasing the pop assembly speed of the planet as well."
 
  #The Recomposer menudesc
  UniqueAscensionPerksMenuEvents.121.Desc: "This Ascension Perk will grant access to a new planetary decision which allows you to transform all organic pops of the planet into mechanical or robot pops. It can also transform mechanical/robotic pops into organic pops if you so desire."
@@ -2090,7 +2090,7 @@
 
  #Leadership Upload AP name and desc
  ap_leadership_transfer: "Leadership Upload"
- ap_leadership_transfer_desc: "Thanks to the new NeuroCopy™ technology our empire is now able to build an entire empire centered around the talent of a singular leader who can be uploaded into multiple mechanical bodies in order to use their special skills in all domains where they are needed."
+ ap_leadership_transfer_desc: "Thanks to the new NeuroCopy technology our empire is now able to build an entire empire centered around the talent of a singular leader who can be uploaded into multiple mechanical bodies in order to use their special skills in all domains where they are needed."
  ap_leadership_transfer_tooltip: "§HUnlocks Feature:§! Leaders Uploading\nAllows us to transfer the experience and traits of a leader into a new body, allowing you to have the same leader in different bodies.\n\n§HUnlocks Edict:§! $edict_leader_uploading$."
 
  #Legendary Forge AP name and desc
@@ -3172,7 +3172,7 @@
 
  #Leader Copy edicts
  edict_leader_cloning: "§BLeader Cloning§!"
- edict_leader_cloning_desc: "This will enable us to clone leaders using certified NeuroCopy™ technology, which allows them to keep their memories and traits."
+ edict_leader_cloning_desc: "This will enable us to clone leaders using certified NeuroCopy technology, which allows them to keep their memories and traits."
  edict_leader_uploading: "§BLeader Uploading§!"
  edict_leader_uploading_desc: "This will allow us to copy and upload a leaders neural network into additional mechanical bodies."
 
