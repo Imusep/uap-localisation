@@ -384,7 +384,7 @@
 
 # Pirate Treasure Convoy event
  TREASURES_PIRATES: "Pirate £treasures£ §YTreasure§! Convoy"
- TREASURES_PIRATES_DESC: "We have located a fleet of pirates which presumably transport stolen treasure. We could seize their cargo if we disable their ships.\n\nReward:\n£treasures£ §G(50 - 1000)§!"
+ TREASURES_PIRATES_DESC: "We have located a fleet of pirates that presumably transports stolen treasure. We could seize their cargo if we disable their ships.\n\nReward:\n£treasures£ §G(50 - 1000)§!"
 # UPLOADED_LEADER_NAME: "$CLONED_LEADER_NAME$"
 
 # Utopian Realisation references
@@ -1775,10 +1775,10 @@
  UniqueAscensionPerksMenuEvents.147.Desc: "This Ascension Perk will allow you to launch a special project which once completed will create 12 pops of 12 different species, and also gives you the choice to turns your capital into a Gaia world."
 
 # Light of Eternity menudesc
- UniqueAscensionPerksMenuEvents.148.Desc: "This Ascension Perk will allow you to find White Holes that allow you to harvest enough antimatter from them to use in mass-production instead of just your navy. These quantities of antimatter could be used for many features such as increasing your energy or physics or dark matter output, or improving energy weapons, shields and thrusters, or detect other White Holes to improve our production."
+ UniqueAscensionPerksMenuEvents.148.Desc: "This Ascension Perk will allow you to find White Holes that will enable us to harvest enough antimatter to use in mass-production instead of just our navy. These quantities of antimatter could be used for many features such as increasing your energy or physics or dark matter output, or improving energy weapons, shields and thrusters, or detect other White Holes to improve our production."
 
 # Deep Space Scanners menudesc
- UniqueAscensionPerksMenuEvents.149.Desc: "This Ascension Perk will allow you to construct deep space scanners on your colonies which will allow you to detect "missed" anomalies on planets without deposits in your borders to make them more useful. $perk_more_content$"
+ UniqueAscensionPerksMenuEvents.149.Desc: "This Ascension Perk will allow you to construct deep space scanners on your colonies that can to detect "missed" anomalies on planets without deposits in your borders to make them more useful. $perk_more_content$"
 
 # Archaeological Experts menudesc
  UniqueAscensionPerksMenuEvents.150.Desc: "This Ascension Perk will allow you to detect new archaeological sites based on the same rules as the deep space scanners. All that is needed is a colony with deep space scanners and some planets in range which can support an archaeological site. $perk_more_content$"
@@ -1847,7 +1847,7 @@
  anti_matter_dark_matter_desc: ""
  anti_matter_dark_physics: "£anti_matter£ §BAntimatter§! Physics Output"
  anti_matter_dark_physics_desc: ""
- anti_matter_desc: "This rare substance usually cannot be mass-produced, but once an empire has mastered the secrets of §H$anti_matter$§! they can be sure that they will soon unlock new ways to handle this precious resource. Antimatter could be easily transformed into §HEnergy§! £energy£ or §HDark Matter§! £sr_dark_matter£ but is normally reserved for ships due to its rarity."
+ anti_matter_desc: "This rare substance usually cannot be mass-produced, but once an empire has mastered the secrets of §H$anti_matter$§! they can be sure that they will soon unlock new ways to handle this precious resource. Antimatter could potetnially be easily transformed into §HEnergy§! £energy£ or §HDark Matter§! £sr_dark_matter£ but is normally reserved for ships due to its rarity."
  anti_matter_energy: "£anti_matter£ §BAntimatter§! Energy Generation"
  anti_matter_energy_desc: ""
  anti_matter_energy_weapons: "£anti_matter£ §BAntimatter§! Energy Weapon Boost"
@@ -2095,7 +2095,7 @@
 
 # Legendary Forge AP name and desc
  ap_legendary_forge: "Legendary Forge"
- ap_legendary_forge_desc: "Legends say that the place where the strongest and durable materials could be forged is somewhere near the heart of a $pc_molten$. We have long looked down on these legends, yet our scientists have now confirmed that some $pc_molten$ do indeed posess extraordinary features that could be used to create forges of unparalleled efficiency. The operation to make one of these planets habitable enough for workers requires the help of $sr_living_metal$, but we should be able to aquire that one way or another. We will now truly see if these legends are only a childish story or simple reality."
+ ap_legendary_forge_desc: "Legends say that the place where the strongest and durable materials could be forged is somewhere near the heart of a $pc_molten$. We have long looked down on these legends, yet our scientists have recently confirmed that some $pc_molten$s do posess extraordinary features that could potentially be used to create forges of unparalleled efficiency. The operation to make one of these planets habitable enough for our populace requires the help of $sr_living_metal$, but we should be able to aquire that one way or another. We will now truly see if these legends are only a childish story or simple reality."
  ap_legendary_forge_req_1: "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_alloys_2$§! Technology."
  ap_legendary_forge_req_2: "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_mine_living_metal$§! Technology."
  ap_legendary_forge_req_3: "$TRIGGER_FAIL$Requires the £society£ §Y$tech_volcano$§! Technology."
@@ -2205,7 +2205,7 @@
 
 # Perfect Vassals AP name and desc
  ap_powerful_vassals: "Perfect Vassals"
- ap_powerful_vassals_desc: "Even our leaders understood that it is going to be very hard to prevail against the endless amount of danger knocking at our doors. As a solution, we have decided to develop new subjects in order to cover our back as we protect them at the same time. The true path will only be obtained through mutual cooperation."
+ ap_powerful_vassals_desc: "We have realized that it is going to be very difficult to prevail against the endless amount of dangers knocking at our doors alone. As a solution, we have decided to develop a new type of subject that will stand loyal to our cause regardless of the circumstances. Long-term survival will only be achieved through mutual cooperation."
  ap_powerful_vassals_req_1: "$TRIGGER_FAIL$Requires the §Y$ap_primitives_creation$§! Ascension Perk OR §Y$ethic_gestalt_consciousness$§! Ethic."
  ap_powerful_vassals_req_2: "$TRIGGER_FAIL$Has finished the §YDomination§! Tradition."
  ap_powerful_vassals_req_3: "$TRIGGER_FAIL$Requires the £society£ §Y$tech_galactic_administration$§! Technology."
@@ -2931,7 +2931,7 @@
  district_control_desc: "The $district_control$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
  district_control_plural: "Control Districts"
  district_deep_forge: "Deep Forge"
- district_deep_forge_desc: "$district_deep_forge_plural$ are only present on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_deep_forge_desc: "$district_deep_forge_plural$ are only present on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_deep_forge_plural: "Deep Forges"
  district_defense: "Planetary Defense District"
  district_defense_desc: "The $district_defense$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
@@ -2940,7 +2940,7 @@
  district_defense_uncapped_desc: "$district_defense_desc$"
  district_defense_uncapped_plural: "$district_defense_plural$"
  district_engineering_facility: "Engineering Facility"
- district_engineering_facility_desc: "$district_engineering_facility$ are only present on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_engineering_facility_desc: "$district_engineering_facility$ are only present on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_engineering_facility_plural: "Engineering Facilities"
  district_entrepot: "Entrepreneur District"
  district_entrepot_desc: "The $district_entrepot$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk.\n$job_stabilizer_effect_desc$\nand £mod_planet_housing_add£ §Y$PLANET_HOUSING_TITLE$§!"
@@ -2988,16 +2988,16 @@
  district_journalism_uncapped_desc: "$district_journalism_desc$"
  district_journalism_uncapped_plural: "$district_journalism_plural$"
  district_lava_fortress: "Lava Fortress"
- district_lava_fortress_desc: "$district_lava_fortress_plural$ are only present on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_lava_fortress_desc: "$district_lava_fortress_plural$ are only present on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_lava_fortress_plural: "Lava Fortresses"
  district_living_metal_foundry: "Living Metal Foundry"
- district_living_metal_foundry_desc: "$district_living_metal_foundry_plural$ are only present on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_living_metal_foundry_desc: "$district_living_metal_foundry_plural$ are only present on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_living_metal_foundry_plural: "Living Metal Foundries"
  district_machinery: "Machinery District"
  district_machinery_desc: "The $district_machinery$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
  district_machinery_plural: "Machinery Districts"
  district_military_bastion: "Military Bastion"
- district_military_bastion_desc: "$district_military_bastion$ are only present on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_military_bastion_desc: "$district_military_bastion$ are only present on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_military_bastion_plural: "Military Bastions"
  district_navy_center: "Navy Center District"
  district_navy_center_desc: "$district_navy_center$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
@@ -3027,7 +3027,7 @@
  district_rich_desc: "The $district_rich$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
  district_rich_plural: "Luxury Districts"
  district_secret_alchimy: "Secret Alchemy"
- district_secret_alchimy_desc: "$district_secret_alchimy$ are only available on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_secret_alchimy_desc: "$district_secret_alchimy$ are only available on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_secret_alchimy_plural: "Secret Alchemies"
  district_security: "Security District"
  district_security_desc: "The $district_security$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
@@ -3039,7 +3039,7 @@
  district_smuggling_desc: "The $district_smuggling$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
  district_smuggling_plural: "Smuggling Districts"
  district_super_assembly: "Super Assembly"
- district_super_assembly_desc: "$district_super_assembly$ are only available on §Y$pc_legendary_forge$§! which can be created from §H$pc_molten$§! with the §Y$ap_legendary_forge$§! Ascension Perk."
+ district_super_assembly_desc: "$district_super_assembly$ are only available on §Y$pc_legendary_forge$s§! which can be created from §H$pc_molten$s§! with the §Y$ap_legendary_forge$§! Ascension Perk."
  district_super_assembly_plural: "Super Assemblies"
  district_underground: "Underground District"
  district_underground_desc: "The $district_underground$ is unlocked once you have the §Y$ap_pyramidal_society$§! Ascension Perk."
