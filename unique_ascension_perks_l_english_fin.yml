@@ -3886,7 +3886,7 @@
 
 # Ascended Admiral damage trait
  leader_trait_young_flame: "Ascended Weapon Modulator"
- leader_trait_young_flame_desc: "This admiral has managed to develop a way to situationally modulate fleet weaponary during to their ascensions, allowing them to optimize their fleets damage output."
+ leader_trait_young_flame_desc: "This admiral has managed to develop a way to situationally modulate fleet weaponary during their ascensions, allowing them to optimize their fleets damage output."
 
 # Leviathan master modifier names and descs
  leviathan_master_provocation: "It is hard to predict what could happen if we provoke an entity like it."
