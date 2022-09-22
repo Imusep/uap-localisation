@@ -789,9 +789,9 @@
 # MU Criteria Fail
  UniqueAscensionPerksEvents.206.Criteria.1: "They must have at least §Y3 Planets§! under their control.\n"
  UniqueAscensionPerksEvents.206.Criteria.2: "They §Rcannot§! have the §Y$ethic_gestalt_consciousness$§! Ethic.\n"
- UniqueAscensionPerksEvents.206.Criteria.3: "They §Rcannot§! §RNOT§! have the §Y$ap_the_flesh_is_weak$§! Ascension Perk.\n"
- UniqueAscensionPerksEvents.206.Criteria.4: "They §Rcannot§! §RNOT§! have the §Y$ap_transcendence$§! Ascension Perk.\n"
- UniqueAscensionPerksEvents.206.Criteria.5: "They §Rcannot§! NOT§! have an §YActive Machine Rebellion§!.\n"
+ UniqueAscensionPerksEvents.206.Criteria.3: "They §Rcannot§! have the §Y$ap_the_flesh_is_weak$§! Ascension Perk.\n"
+ UniqueAscensionPerksEvents.206.Criteria.4: "They §Rcannot§! have the §Y$ap_transcendence$§! Ascension Perk.\n"
+ UniqueAscensionPerksEvents.206.Criteria.5: "They §Rcannot§! have an §YActive Machine Rebellion§!.\n"
  UniqueAscensionPerksEvents.206.Criteria.6: "They §Rcannot§! NOT have an §YActive Machine Infiltration§!.\n"
 
 # MU Infiltration
